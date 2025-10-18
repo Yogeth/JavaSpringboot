@@ -4,6 +4,6 @@
  public class HelloWorldController{
    @GetMapping("/world")
    String sayHello(){
-     return "Hello World hi everyone iam Yogeth Rajendran from TamilNadu iam studying AiMl in Mahendra Institute of Technology !";
+     return "Hello World hi everyone iam Yogeth Rajendran from TamilNadu iam studying AiMl in Mahendra Institute of Technology i love java !";
    }
  }

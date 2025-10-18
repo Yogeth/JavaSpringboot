@@ -8,7 +8,7 @@
      return "Hello World i love java !";
    }
    @GetMapping("/everyone")
-   String sayHello(){
+   String sayH(){
      return "Hello everyOne iam yoge";
    }
  }
